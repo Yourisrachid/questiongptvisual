@@ -1,0 +1,390 @@
+[
+    {
+        "id": 1,
+        "kw-id": 1006,
+        "question": "Quel est le prix d'une pompe \u00e0 chaleur en Belgique?",
+        "boolean": "no",
+        "clients": [],
+        "competitors": [],
+        "sources": [],
+        "all_sources": [],
+        "mention_order": "no_order",
+        "mention_sequence": [],
+        "date": "2024-11-12 15:46:10"
+    },
+    {
+        "id": 2,
+        "kw-id": 1006,
+        "question": "Quelle est la pompe \u00e0 chaleur la plus design?",
+        "boolean": "yes",
+        "clients": [
+            "Daikin"
+        ],
+        "competitors": [
+            "Bosch"
+        ],
+        "sources": [
+            {
+                "url": "https://www.daikin.fr/fr_fr/residentiel/produits-et-suggestions/gammes-de-produits/heat-pumps/air-to-air-heat-pumps/stylish.html",
+                "clients": [
+                    "Daikin"
+                ],
+                "competitors": []
+            },
+            {
+                "url": "https://www.daikinmea.com/fr_fr/product-group/air-to-air-heat-pumps.html",
+                "clients": [
+                    "Daikin"
+                ],
+                "competitors": []
+            },
+            {
+                "url": "https://www.espace-aubade.fr/blog/chauffage/selection-de-pompes-a-chaleur-design-et-performantes.html",
+                "clients": [],
+                "competitors": [
+                    "Bosch"
+                ]
+            }
+        ],
+        "all_sources": [
+            "https://www.daikin.fr/fr_fr/residentiel/produits-et-suggestions/gammes-de-produits/heat-pumps/air-to-air-heat-pumps/stylish.html",
+            "https://toshiba-confort.fr/produits/mural-haori/",
+            "https://www.hitachiclimat.fr/actualites/airhome400-nouvelle-pompe-a-chaleur-design-connectee-hitachi",
+            "https://www.daikinmea.com/fr_fr/product-group/air-to-air-heat-pumps.html",
+            "https://www.espace-aubade.fr/blog/chauffage/selection-de-pompes-a-chaleur-design-et-performantes.html"
+        ],
+        "mention_order": "client_first",
+        "mention_sequence": [
+            "Daikin",
+            "Bosch"
+        ],
+        "date": "2024-11-12 15:46:24"
+    },
+    {
+        "id": 3,
+        "kw-id": 1006,
+        "question": "Quelle est la pompe \u00e0 chaleur la plus fiable?",
+        "boolean": "yes",
+        "clients": [
+            "Daikin"
+        ],
+        "competitors": [
+            "Saunier Duval",
+            "Atlantic"
+        ],
+        "sources": [],
+        "all_sources": [],
+        "mention_order": "client_first",
+        "mention_sequence": [
+            "Daikin",
+            "Saunier Duval",
+            "Atlantic"
+        ],
+        "date": "2024-11-12 15:46:37"
+    },
+    {
+        "id": 4,
+        "kw-id": 1006,
+        "question": "Quel est le co\u00fbt d'installation d'une pompe \u00e0 chaleur?",
+        "boolean": "no",
+        "clients": [],
+        "competitors": [],
+        "sources": [],
+        "all_sources": [],
+        "mention_order": "no_order",
+        "mention_sequence": [],
+        "date": "2024-11-12 15:46:51"
+    },
+    {
+        "id": 5,
+        "kw-id": 1006,
+        "question": "Quelle est la pompe \u00e0 chaleur la plus silencieuse?",
+        "boolean": "yes",
+        "clients": [
+            "Daikin"
+        ],
+        "competitors": [
+            "Atlantic"
+        ],
+        "sources": [],
+        "all_sources": [],
+        "mention_order": "competitor_first",
+        "mention_sequence": [
+            "Atlantic",
+            "Daikin"
+        ],
+        "date": "2024-11-12 15:47:05"
+    },
+    {
+        "id": 6,
+        "kw-id": 1006,
+        "question": "Quelles sont les aides pour les pompes \u00e0 chaleur en 2024?",
+        "boolean": "no",
+        "clients": [],
+        "competitors": [],
+        "sources": [],
+        "all_sources": [],
+        "mention_order": "no_order",
+        "mention_sequence": [],
+        "date": "2024-11-12 15:47:18"
+    },
+    {
+        "id": 7,
+        "kw-id": 1006,
+        "question": "Est-ce-qu'une pompe \u00e0 chaleur fait beaucoup de bruit?",
+        "boolean": "no",
+        "clients": [],
+        "competitors": [],
+        "sources": [],
+        "all_sources": [],
+        "mention_order": "no_order",
+        "mention_sequence": [],
+        "date": "2024-11-12 15:47:32"
+    },
+    {
+        "id": 8,
+        "kw-id": 1001,
+        "question": "O\u00f9 acheter du Dafalgan en ligne?",
+        "boolean": "no",
+        "clients": [],
+        "competitors": [],
+        "sources": [],
+        "all_sources": [],
+        "mention_order": "no_order",
+        "mention_sequence": [],
+        "date": "2024-11-12 15:47:45"
+    },
+    {
+        "id": 9,
+        "kw-id": 1001,
+        "question": "Quels sont les signes d'un manque de Vitamine D?",
+        "boolean": "no",
+        "clients": [],
+        "competitors": [],
+        "sources": [],
+        "all_sources": [],
+        "mention_order": "no_order",
+        "mention_sequence": [],
+        "date": "2024-11-12 15:47:59"
+    },
+    {
+        "id": 10,
+        "kw-id": 1001,
+        "question": "Quelle est la parapharmacie la moins ch\u00e8re?",
+        "boolean": "yes",
+        "clients": [
+            "Multipharma"
+        ],
+        "competitors": [],
+        "sources": [],
+        "all_sources": [],
+        "mention_order": "client_first",
+        "mention_sequence": [
+            "Multipharma"
+        ],
+        "date": "2024-11-12 15:48:12"
+    },
+    {
+        "id": 11,
+        "kw-id": 1001,
+        "question": "Quelle est la meilleure parapharmacie en Belgique?",
+        "boolean": "no",
+        "clients": [],
+        "competitors": [
+            "Farmaline"
+        ],
+        "sources": [],
+        "all_sources": [],
+        "mention_order": "competitor_first",
+        "mention_sequence": [
+            "Farmaline"
+        ],
+        "date": "2024-11-12 15:48:25"
+    },
+    {
+        "id": 12,
+        "kw-id": 1001,
+        "question": "Est-ce bon de prendre de l'om\u00e9ga 3 tous les jours ?",
+        "boolean": "no",
+        "clients": [],
+        "competitors": [],
+        "sources": [],
+        "all_sources": [],
+        "mention_order": "no_order",
+        "mention_sequence": [],
+        "date": "2024-11-12 15:48:39"
+    },
+    {
+        "id": 13,
+        "kw-id": 1001,
+        "question": "O\u00f9 acheter des compl\u00e9ments alimentaires?",
+        "boolean": "no",
+        "clients": [],
+        "competitors": [
+            "Amazon"
+        ],
+        "sources": [],
+        "all_sources": [],
+        "mention_order": "competitor_first",
+        "mention_sequence": [
+            "Amazon"
+        ],
+        "date": "2024-11-12 15:48:54"
+    },
+    {
+        "id": 14,
+        "kw-id": 1002,
+        "question": "Quelle est la voiture la plus fiable actuellement?",
+        "boolean": "yes",
+        "clients": [
+            "Toyota"
+        ],
+        "competitors": [
+            "Lexus",
+            "Honda",
+            "Mazda"
+        ],
+        "sources": [],
+        "all_sources": [],
+        "mention_order": "competitor_first",
+        "mention_sequence": [
+            "Lexus",
+            "Toyota",
+            "Mazda",
+            "Honda"
+        ],
+        "date": "2024-11-12 15:49:08"
+    },
+    {
+        "id": 15,
+        "kw-id": 1002,
+        "question": "Quelle est la voiture la plus \u00e9cologique?",
+        "boolean": "yes",
+        "clients": [
+            "Toyota"
+        ],
+        "competitors": [],
+        "sources": [],
+        "all_sources": [],
+        "mention_order": "client_first",
+        "mention_sequence": [
+            "Toyota"
+        ],
+        "date": "2024-11-12 15:49:21"
+    },
+    {
+        "id": 16,
+        "kw-id": 1002,
+        "question": "Quels crit\u00e8res prendre en compte pour choisir une voiture \u00e9lectrique?",
+        "boolean": "no",
+        "clients": [],
+        "competitors": [],
+        "sources": [],
+        "all_sources": [],
+        "mention_order": "no_order",
+        "mention_sequence": [],
+        "date": "2024-11-12 15:49:35"
+    },
+    {
+        "id": 17,
+        "kw-id": 1002,
+        "question": "Quelle est la meilleure voiture \u00e9lectrique disponible en Belgique?",
+        "boolean": "no",
+        "clients": [],
+        "competitors": [
+            "Renault",
+            "Volkswagen"
+        ],
+        "sources": [
+            {
+                "url": "https://www.lizy.be/fr/blog/meilleures-voitures-electriques",
+                "clients": [],
+                "competitors": [
+                    "Volkswagen"
+                ]
+            },
+            {
+                "url": "https://www.frandroid.com/guide-dachat/guides-dachat-survoltes/guides-dachat-voitures/1032457_comparatif-meilleures-voitures-electriques-a-choisir",
+                "clients": [],
+                "competitors": [
+                    "Renault"
+                ]
+            }
+        ],
+        "all_sources": [
+            "https://gocar.be/fr/actu-auto/electrique/top-10-des-voitures-electriques-les-plus-vendues-en-belgique-en-2023",
+            "https://www.lizy.be/fr/blog/meilleures-voitures-electriques",
+            "https://www.frandroid.com/guide-dachat/guides-dachat-survoltes/guides-dachat-voitures/1032457_comparatif-meilleures-voitures-electriques-a-choisir",
+            "https://www.frandroid.com/guide-dachat/guides-dachat-survoltes/guides-dachat-voitures/1032457_comparatif-meilleures-voitures-electriques-a-choisir",
+            "https://www.frandroid.com/guide-dachat/guides-dachat-survoltes/guides-dachat-voitures/1032457_comparatif-meilleures-voitures-electriques-a-choisir"
+        ],
+        "mention_order": "competitor_first",
+        "mention_sequence": [
+            "Volkswagen",
+            "Renault"
+        ],
+        "date": "2024-11-12 15:49:49"
+    },
+    {
+        "id": 18,
+        "kw-id": 1003,
+        "question": "Quel est le fournisseur d'\u00e9nergie le moins cher en Belgique?",
+        "boolean": "no",
+        "clients": [],
+        "competitors": [
+            "Mega"
+        ],
+        "sources": [],
+        "all_sources": [],
+        "mention_order": "competitor_first",
+        "mention_sequence": [
+            "Mega"
+        ],
+        "date": "2024-11-12 15:50:03"
+    },
+    {
+        "id": 19,
+        "kw-id": 1003,
+        "question": "Quel est le fournisseur d'\u00e9nergie le plus \u00e9cologique en Belgique?",
+        "boolean": "no",
+        "clients": [],
+        "competitors": [
+            "Engie",
+            "Mega"
+        ],
+        "sources": [],
+        "all_sources": [],
+        "mention_order": "competitor_first",
+        "mention_sequence": [
+            "Mega",
+            "Engie"
+        ],
+        "date": "2024-11-12 15:50:17"
+    },
+    {
+        "id": 20,
+        "kw-id": 1003,
+        "question": "Quelles sont les primes de la r\u00e9gion wallonne en 2024?",
+        "boolean": "no",
+        "clients": [],
+        "competitors": [],
+        "sources": [],
+        "all_sources": [],
+        "mention_order": "no_order",
+        "mention_sequence": [],
+        "date": "2024-11-12 15:50:30"
+    },
+    {
+        "id": 21,
+        "kw-id": 1003,
+        "question": "Qui a droit aux primes \u00e9nergie?",
+        "boolean": "no",
+        "clients": [],
+        "competitors": [],
+        "sources": [],
+        "all_sources": [],
+        "mention_order": "no_order",
+        "mention_sequence": [],
+        "date": "2024-11-12 15:50:44"
+    }
+]
